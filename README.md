@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marenkeller
 - 👀 I’m interested in cats, coding, literature, running and drinking wine
 - 🌱 I’m currently learning advanced bootstrap & responsive coding 
-- 💞️ I’m playing arounbd with a book picking page
+- 💞️ I’m playing around with a book picking page
 
 
 <!---
